@@ -1,3 +1,7 @@
-<h1>Network Scanner </h1>
+# Network Scanner 
 
-This embedded program was created using the C++/Arduino language on a ESP8266 microchip. The program can detect all surrounding traffic on the network that it is currently connected to and store the data. After that the chip switches it's network mode to Access Point and hosts a website on itself, that when connected to, allows you to view the data, including the IP and MAC adresses of the devices communicating on the network.
+<ul>
+<li>Programmed a ESP8266 microchip using C to connect to a wireless network and scan other devices connected to the same network</li>
+<li>Used the microchip's AP mode to allow the user to connect to it and view the scanned devices' IP and MAC addresses on a website</li>
+<li>Presented the project to the CEO of the Slovak IoT company Instarea as a part of a coding challenge</li>
+</ul>
